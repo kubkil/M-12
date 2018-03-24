@@ -1,0 +1,3 @@
+[submodule "SM-12-4"]
+	path = SM-12-4
+	url = git@github.com:kubkil/SM-12-4.git
